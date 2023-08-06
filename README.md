@@ -1,5 +1,5 @@
 # Signals-system
-Code for filtering the signal
+Code 1 for filtering the signal
 This MATLAB code is designed to read audio data from one or more WAV files provided by the user and then perform the Discrete Fourier Transform (DFT) on the audio signals to obtain their frequency spectra. The code plots the magnitude spectra of the audio signals on separate subplots, with each subplot corresponding to one input WAV file.
 
 Here's a step-by-step description of the code:
